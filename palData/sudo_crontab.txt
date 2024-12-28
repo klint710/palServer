@@ -1,0 +1,6 @@
+TZ=Asia/Taipei
+55 18-23 * * 1-5 $HOME/palData/palBackup.sh
+55 11-23 * * 6-7 $HOME/palData/palBackup.sh
+55 0-1 * * * 1-5 $HOME/palData/palBackup.sh
+00 23 * * * 7 $HOME/palData/deleteBackup.sh > $HOME/palData/log/deleteBackup.log 2>&1
+

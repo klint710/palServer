@@ -1,0 +1,24 @@
+Redirecting stderr to '/home/qscft821103/Steam/logs/stderr.txt'
+Logging directory: '/home/qscft821103/Steam/logs'
+[  0%] Checking for available updates...
+[----] Verifying installation...
+UpdateUI: skip show logoSteam Console Client (c) Valve Corporation - version 1721172922
+-- type 'quit' to exit --
+Loading Steam API...OK
+
+Connecting anonymously to Steam Public...OK
+Waiting for client config...OK
+Waiting for user info...OK
+ Update state (0x3) reconfiguring, progress: 0.00 (0 / 0)
+ Update state (0x3) reconfiguring, progress: 0.00 (0 / 0)
+ Update state (0x61) downloading, progress: 9.30 (249303332 / 2679578137)
+ Update state (0x61) downloading, progress: 19.59 (524843096 / 2679578137)
+ Update state (0x61) downloading, progress: 24.86 (666101268 / 2679578137)
+ Update state (0x41) staging, progress: 28.18 (755139492 / 2679578137)
+ Update state (0x41) staging, progress: 29.66 (794697792 / 2679578137)
+ Update state (0x41) staging, progress: 39.73 (1064567483 / 2679578137)
+ Update state (0x41) staging, progress: 55.38 (1483997983 / 2679578137)
+ Update state (0x41) staging, progress: 69.51 (1862533919 / 2679578137)
+ Update state (0x41) staging, progress: 90.01 (2411911043 / 2679578137)
+ Update state (0x101) committing, progress: 100.00 (2679578137 / 2679578137)
+Success! App '2394010' fully installed.

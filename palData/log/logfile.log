@@ -1,0 +1,15 @@
+The file already exists: /home/qscft821104/Steam/steamapps/common/PalServer/Pal/Binaries/Linux/steamclient.so
+[S_API] SteamAPI_Init(): Loaded local 'steamclient.so' OK.
+Shutdown handler: initalize.
+5.1.1-0+++UE5+Release-5.1 1008 0
+Disabling core dumps.
+CAppInfoCacheReadFromDiskThread took 4 milliseconds to initialize
+Setting breakpad minidump AppID = 2394010
+[S_API FAIL] Tried to access Steam interface SteamUser021 before SteamAPI_Init succeeded.
+[S_API FAIL] Tried to access Steam interface SteamFriends017 before SteamAPI_Init succeeded.
+[S_API FAIL] Tried to access Steam interface STEAMAPPS_INTERFACE_VERSION008 before SteamAPI_Init succeeded.
+[S_API FAIL] Tried to access Steam interface SteamNetworkingUtils004 before SteamAPI_Init succeeded.
+Game version is v0.4.12.64723
+Running Palworld dedicated server on :8211
+[2024-12-26 20:21:16] [LOG] tuna 36.224.177.250 connected the server. (User id: steam_76561198860628355)
+[2024-12-26 20:21:21] [LOG] tuna joined the server. (User id: steam_76561198860628355)
