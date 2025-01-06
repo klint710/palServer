@@ -1,4 +1,4 @@
 TZ=Asia/Taipei
-30 02 * * * $HOME/palData/palBackup.sh
+30 02 * * * sudo $HOME/palData/palBackup.sh
 
 
