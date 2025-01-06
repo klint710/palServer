@@ -1,4 +1,4 @@
 TZ=Asia/Taipei
-55-59/10 18-23,0-1 * * 1-5 $HOME/palData/restart.sh
-55-59/10 11-23,0-1 * * 6-7 $HOME/palData/restart.sh
+55/10 18-23,0-1 * * 1-5 $HOME/palData/restart.sh
+55/10 11-23,0-1 * * 6-7 $HOME/palData/restart.sh
 00 2 * * * $HOME/palData/closeDay.sh
