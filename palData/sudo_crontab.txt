@@ -1,6 +1,6 @@
 DEF_SUDO_USER = "/home/$SUDO_USER"
 
 TZ=Asia/Taipei
-00 11 * * 6 sudo ${DEF_SUDO_USER}/palData/autoPalBackup.sh
-
+00 11 * * 6 sudo $HOME/palData/autoPalBackup.sh >> $HOME/palData/log/palBackup.log
+00 11 * * 6 sudo ${DEF_SUDO_USER}/palData/autoPalBackup.sh >> ${DEF_SUDO_USER}/palData/log/palBackup.log
 
